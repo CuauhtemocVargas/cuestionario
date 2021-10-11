@@ -1,8 +1,13 @@
 Cuauhtémoc Vargas Flores y Rubén Vazquez González 8°2
 1 En tus palabras, ¿Qué es internet?
+para mi el internet es una muy buena cosa compuesta por cables y servidores que te dan imformacion dependiendo de donde vivas 
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+ondas de radio, cables y codigos 
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+IP: este sirve mas en computadoras ya que es la opcion de mandar un mensaje entre compus con un ip de recibo que seria el de la otra persona y tu ip para dar una respuesta
+DNS: los dns tambien aparecen en las compus y en ese caso son los: www.algo.com lo que hace esto es que tu computadora busca una direcciones que corespondan con eso y te las marque y tu puedes ver cual es la correcta 
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+primero la cancion es en codigo binario luego la cancion la cambian a diferentes ondas de radio de diferentes frecuencias a la compañia despues se cambia a codigos binario otra vez y llega a tu telefono 
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
 
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
