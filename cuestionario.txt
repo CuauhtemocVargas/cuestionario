@@ -9,9 +9,11 @@ DNS: los dns tambien aparecen en las compus y en ese caso son los: www.algo.com 
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 Primero la cancion es en codigo binario luego la cancion la cambian a diferentes ondas de radio de diferentes frecuencias a la compañia despues se cambia a codigos binario otra vez y llega a tu telefono 
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
-
+HTTP: Hyper Text Transfer Protocol es el lengujae por el cual las computadoras se comunican entre si para poder solicitar un docemunto cuando navegas por internet, como cuando quieres entrar a wikipedia lo que hace la computadora es que manda al servidor un mensaje solicitando esa pagina web en lenguaje HTTP.
+HTML: Hyper Text Markup Lenguage es el lengujae, o la manera de decirle a la compuatdora como hacer que se vea una pagina, las paginas web son completamente formadas por HTML y lo unico que hace la computadora es que lo representa garficamente.
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-
+La encriptacion es el proceso en el cual las computadoras crean un mensaje oculto, toman el mensaje y por medio de la encriptacion digamos que ponen letras al "azar" y generan una palabra completamente diferente. Las llaves publicas son la clave, por asi decirlo por el cual se puede descifrar el mensaje, se puede devolver a como era antes.
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-
+Para protegerse de los criminales de internet es necesario, no confiar en todos los mensajes que te lleguen si es de alguien que no conoces, no descargar cosas de las cuales no confies o no estes seguro, usar contraseñas muy extravagantes, revisar que donde estes navegando sea autentico y descargar continuamente actualizaciones de seguridad
 8 ¿Cómo funciona la búsqueda de google?
+Primero que nada lo que hace el buscador es que por adelantado ejecuta un programa que se llama "Spider" el cual lo que hace es que navega a traves de todas las paginas web, incluso si no estas conectado y le da informacion a Google, este es el "Search Index", luego de esto lo que hace es que dependiendo de lo que buscaste, trata de encontrar esas palabras en el articulo para dar con mayor certeza por lo que estas buscando, ademas de que lo que haace es que cuando se meten a una pagina a traves de muchas otras, comienza a "subir de rango" y es por eso que queda más arriba en las busquedas de Google, tambien a veces utiliza informacion que no has dado, pero que aun asi conocen, para poder darte un mejor resultado, y por ultimo perono menos importante lo que hacen los buscadores es que con una IA (todos sabemos que es) interpretan el significado de la oracion que buscaste en internet, para así darte el mejor resultado que puedan.
